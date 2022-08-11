@@ -68737,7 +68737,7 @@ case 6:o=b
 n=m.a0R(m.r.a.a,o,p.vy())
 m=t.N
 s=9
-return A.a_(A.aFl(A.he("https://saulprl-ph-test.herokuapp.com/",0,null),n,A.ac(["Content-Type","application/json"],m,m)),$async$$0)
+return A.a_(A.aFl(A.he("https://saulprl-ph-test.herokuapp.com/",0,null),n,A.ac(["Access-Control-Allow-Origin","*","Content-Type","application/json"],m,m)),$async$$0)
 case 9:case 3:return A.W(null,r)}})
 return A.X($async$$0,r)},
 $S:10}
